@@ -3926,3 +3926,20 @@ input, select, textarea {
 	width:100%;
 	position:absolute;
 }
+
+.top-image {
+	overflow:hidden;
+	padding-bottom:40.25%;
+	position:relative;
+	height:0;
+	margin-bottom: 4%;
+	text-align: center;
+}
+
+.top-image img{
+	left:0;
+	top:0;
+	height:100%;
+	width:100%;
+	position:absolute;
+}
